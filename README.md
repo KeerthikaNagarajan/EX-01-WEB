@@ -142,7 +142,7 @@ The aim of the given code is to create a web portfolio or CV using HTML and CSS.
 
 ```
 #### style.css:
-```
+```css
 body {
     background-color: #433A33;
     height: 125vh;  
