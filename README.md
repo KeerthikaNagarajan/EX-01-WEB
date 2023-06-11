@@ -1,7 +1,20 @@
-# Exp:1 To create a web Portfolio/CV using HTML & CSS
-## Program:
-### port.html:
-```
+# Ex-01:
+## To create a web Portfolio/CV using HTML & CSS
+### AIM:
+The aim of the given code is to create a web portfolio or CV using HTML and CSS. The code includes sections such as Home, About, Skills, Education, Internship, and Contact, providing information about the person, their skills, education, and contact details.
+### ALGORITHM:
+1. Create an HTML file with the extension ".html" and a CSS file with the extension ".css".
+2. In the HTML file, use the <!DOCTYPE html> declaration to specify that it is an HTML5 document.
+3. Inside the 'head tag, set the title of the web page and link the CSS file using the link tag.
+4. Inside the body tag, structure the content of the web page using HTML elements such as nav, div, p, img, hr, center, h2, ul, li, form, label, input, textarea, and button.
+5. Use CSS styles defined in the CSS file to format and position the elements on the web page.
+6. Use CSS classes and IDs to apply specific styles to individual elements.
+7. Use the "#" symbol followed by the ID name to create anchor links for navigation within the web page.
+8. Save the HTML and CSS files.
+9. Open the HTML file in a web browser to see the result.
+### PROGRAM:
+#### port.html:
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -28,7 +41,7 @@
   </div>
   <p class="arrow">&#8595;</p><br>
   <hr size="4" width="90%" style="color:#F5BEBE;"><br>
-
+  
   <center>
 
   <u><h2 id="about">About</h2></u>
@@ -128,7 +141,7 @@
 </html>
 
 ```
-### style.css:
+#### style.css:
 ```
 body {
     background-color: #433A33;
@@ -282,5 +295,8 @@ body {
       padding-right: 40px;
   }
 ```
-## Output:
+### OUTPUT:
 ![Web capture_6-6-2023_142416_](https://github.com/KeerthikaNagarajan/portfolio-html-css/assets/93427089/e3c4840b-965a-4e7e-b46d-7d147fddb505)
+
+### RESULT:
+The result of running the code is a web page that displays a portfolio/CV was successful done.
